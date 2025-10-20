@@ -26,6 +26,12 @@ Get the comment tree for a given post.
 
 See [GET \[/r/subreddit\]/comments/article](https://www.reddit.com/dev/api/#GET_comments_{article}).
 
+### `/user/[username]`
+
+Return information about the user, including karma and gold status.
+
+See [GET /user/username/about](https://www.reddit.com/dev/api/#GET_user_{username}_about).
+
 ## License
 
 The Unreddit project is licensed under the [GPLv3 License](LICENSE).
